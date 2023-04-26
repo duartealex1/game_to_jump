@@ -35,7 +35,8 @@ var testarcolisao = setInterval( function(){
     if(esquerdaquadrado < 20 && esquerdaquadrado > 0 && topopersonagem >=130){
         quadrado.style.animation = 'none'
         quadrado.style.display = 'none'
-        alert('você perdeu!')
+        alert(`você perdeu! Vamos tentar novamente?`)
+        setTimeout(()=>{window.location.reload()}, 2000)
     }
 
 

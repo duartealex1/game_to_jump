@@ -68,5 +68,5 @@ body{
 
 @keyframes quadrado{
     0%{left: 480px;}
-    100% {left: 0px;}
+    100% {left: -10px;}
 }
