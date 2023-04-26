@@ -24,5 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
 
-https://duartealex1.github.io/game_to_jump/
+[Jogue aqui](https://duartealex1.github.io/game_to_jump/)
+
 ###
