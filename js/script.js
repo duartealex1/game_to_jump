@@ -23,12 +23,12 @@ function pular(){
 //     }, 500)
 // }
 
-var testarcolisao = setInterval( function(){
+let testarcolisao = setInterval( function(){
     
-    var topopersonagem = parseInt(
+    let topopersonagem = parseInt(
         window.getComputedStyle(personagem).getPropertyValue('top')
     )
-    var esquerdaquadrado = parseInt(
+    let esquerdaquadrado = parseInt(
         window.getComputedStyle(quadrado).getPropertyValue('left')
     )
 
